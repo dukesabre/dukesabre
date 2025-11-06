@@ -7,3 +7,5 @@ Here's some information about me:
 - Personality Typology: ENTJ 1w2 so/sp 153 RCOEI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
 - Age: 17
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
